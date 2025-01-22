@@ -26,10 +26,8 @@ Acesse o site em: [Calculadora](https://calculadora.blog)
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 1. Faça um fork do repositório.
-2. Crie um branch para a sua feature: `git checkout -b minha-feature`.
+2. Crie um branch para a sua feature
 3. Envie um pull request com uma descrição clara das mudanças.
-
-## 🔗 Backlink
 
 Confira outras ferramentas úteis no [Calculadora.blog](https://calculadora.blog) e explore a versatilidade de nossos recursos.
 
